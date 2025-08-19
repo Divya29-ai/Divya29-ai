@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm Divya Kashetty!- 💻 I’m passionate about Web Development & java programming - 🌱 Currently learning: Data Science,R-programming and GitHub Actions- 💡 Fun Fact: I once debugged a 50-line error just by adding a semicolon 😂
+# 👋 Hi there, I'm Rohith!- 💻 I’m passionate about Web Development & java programming - 🌱 Currently learning: Data Science,R-programming and GitHub Actions- 💡 Fun Fact: I once debugged a 50-line error just by adding a semicolon 😂
 ## 🛠 Skills & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Label-R?style=flat&logo=slug&logoColor=blue&logoSize=auto&label=R&labelColor=black&color=green)
